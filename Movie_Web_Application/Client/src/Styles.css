@@ -1,0 +1,7 @@
+/* Center all auth pages vertically + horizontally */
+.page-center {
+  min-height: 100vh;        /* Full screen height */
+  display: flex;
+  justify-content: center;  /* Center left-right */
+  align-items: center;      /* Center top-bottom */
+}
